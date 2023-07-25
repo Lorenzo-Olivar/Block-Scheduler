@@ -10,7 +10,7 @@ So that users can use this application to schedule their time effectively and re
 
 ## Installation
 
-Proceed to this link: ![Block Scheduler]()
+Proceed to this link: [Block Scheduler]()
 
 ## Usage
 
