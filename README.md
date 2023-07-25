@@ -10,17 +10,17 @@ So that users can use this application to schedule their time effectively and re
 
 ## Installation
 
-Proceed to this link: [Block Scheduler]()
+Proceed to this link: [Block Scheduler](https://lorenzo-olivar.github.io/Block-Scheduler/)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The time blocks automatically change colors (GRAY = Past / RED = Present / GREEN = Future) based on the current time
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+AND
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+all you have to do is type in the time block boxes and save your events by clicking on the button to the right of the time block 
+
+![Block Scheduler Screenshot](
 
 ## License
 
