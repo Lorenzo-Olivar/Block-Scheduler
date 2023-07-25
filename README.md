@@ -2,11 +2,13 @@
 
 ## Description
 
-As a developer,
+My motivation in creating this project was to make a simple and easy-to-use block-style scheduler for the user to use in their daily lives.
 
-I wanted to create a block-style scheduler that is saved to your local device and displays the current day,
+I built this project to familiarize myself with the use of third-party APIs and their functions.
 
-So that users can use this application to schedule their time effectively and reference back to the scheduler if they close the web application out.
+Thankfully, this scheduler helps with organizing an individual's busy life by assigning events and things to do at a specific time. 
+
+Overall, I learned how beneficial it is to utilize third-party APIs to be more efficient when coding.
 
 ## Installation
 
