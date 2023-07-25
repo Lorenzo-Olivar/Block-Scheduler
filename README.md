@@ -20,7 +20,7 @@ AND
 
 all you have to do is type in the time block boxes and save your events by clicking on the button to the right of the time block 
 
-![Block Scheduler Screenshot](
+![Block Scheduler Screenshot](SS1.png)
 
 ## License
 
